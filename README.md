@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+# 자바 배우는중임
 <!--
 **Hightechnyangtoml/Hightechnyangtoml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
