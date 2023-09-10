@@ -4,3 +4,5 @@
 
 디스코드 lovelymoca
 
+<a href="https://github.com/Hightechnyangtoml/Hightechnyangtoml/blob/main/Old-nickname.md">이전닉 보러가기★</a>
+
